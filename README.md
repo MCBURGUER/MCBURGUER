@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MCBURGUER
 - 👀 I’m interested in game/app development
-- 🌱 I’m currently learning VB/Lua
+- 🌱 I’m currently learning C#/SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... he/him
